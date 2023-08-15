@@ -1,0 +1,47 @@
+#title{
+    background-color: whitesmoke;
+}
+
+
+body {
+    background-color: lightgray;
+}
+
+body .body .picture-1{
+    background-color: whitesmoke;
+}
+
+body .body h3 span{
+    display: block;
+    float: right;
+}
+body .body .picture-1 img{
+    height: 50%;
+    width: 50%;
+    display: block;
+    padding: auto;
+    margin: auto;
+}
+
+body .body .picture-2{
+    background-color: whitesmoke;
+
+}
+body .body .picture-2 img{
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+
+body .body .picture-3{
+    background-color: whitesmoke;
+}
+
+body .body .picture-3 img{
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin: auto;
+
+}
