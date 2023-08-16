@@ -7,9 +7,14 @@ body {
     background-color: lightgray;
 }
 
+body .body{
+    margin: 20px
+
+}
+
 body .body .picture-1{
     background-color: whitesmoke;
-}
+    margin: 100px}
 
 body .body h3 span{
     display: block;
@@ -25,6 +30,7 @@ body .body .picture-1 img{
 
 body .body .picture-2{
     background-color: whitesmoke;
+    margin: 100px;
 
 }
 body .body .picture-2 img{
@@ -36,6 +42,7 @@ body .body .picture-2 img{
 
 body .body .picture-3{
     background-color: whitesmoke;
+    margin: 100px;
 }
 
 body .body .picture-3 img{
